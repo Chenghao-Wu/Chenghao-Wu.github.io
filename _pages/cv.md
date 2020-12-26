@@ -62,9 +62,9 @@ Research experience:
 Publications:
 ------
   
-(1) **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J Comput Chem. 2021; 42: 6– 18. 
+(1) **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18. 
 
-(2) **Wu, Z**, Milano, G, and Müller‐Plathe, F, Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.
+(2) **Wu, Z**, Milano, G, and Müller‐Plathe, F. Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.
 
 
 Talks:
