@@ -37,22 +37,25 @@ Education:
 
 Research experience:
 ------
-* 2018-2020: Research Assistant
-  * Technische Universität Darmstadt, Germnay
-  * Duties included: Tagging issues
-  * Supervisor: Prof. Dr. Florian Müller-Plathe 
+* **2018-2020: Research Assistant**
+  * **Location:** Technische Universität Darmstadt, Germnay
+  * **Project:** Improved Dynamics in Hybrid Particle-Field Simulations of Polymers
+    * Develop molecular dynamics simulation methods based on the hybrid particle-field model for efficient computation of polymer dynamics
+    * Develop coarse-grained models of polymers such as polystyrene and polyethylene melts
+    * Examine the scope of applications of the newly developed model, e.g. polymer nanocomposites
+  * **Supervisor:** Prof. Dr. Florian Müller-Plathe 
 
-* 2016-2018: Research Assistant
-  * University of Akron, Ohio
-  * Project: Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
+* **2016-2018: Research Assistant**
+  * **Location:** Department of Polymer Engineering, University of Akron, Ohio
+  * **Project:** Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
     * Investigate the effect of grafting on the dynamics at polymer/substrate interfaces
     * Compute the glass transition temperature of polymers using novel algorithms
     * Conduct data analysis with automated scripts based on Python
-  * Supervisor: Prof. Dr. David Simmons 
+  * **Supervisor:** Prof. Dr. David Simmons 
 
-* July-Aug, 2015: Internship
-  * Bureau of Quality and Technical Supervision of Suzhou, Jiangsu
-  * Duties included: Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
+* **July-Aug, 2015: Internship**
+  * **Location:** Bureau of Quality and Technical Supervision of Suzhou, Jiangsu
+  * **Duties included:** Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
   
 ---
 
