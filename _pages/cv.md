@@ -24,7 +24,7 @@ Research experience
   * Supervisor: Prof. Dr. Florian Müller-Plathe 
 
 * 2016-2018: Research Assistant
-  * Technische Universität Darmstadt, Germnay
+  * University of Akron, Ohio
   * Project: Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
     * Duties included: Investigate the effect of grafting on the dynamics at polymer/substrate interfaces
     * Compute the glass transition temperature of polymers using novel algorithms
