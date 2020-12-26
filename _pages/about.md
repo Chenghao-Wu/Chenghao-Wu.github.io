@@ -12,7 +12,7 @@ My name is Chenghao Wu (吴正浩). I am currently pursuing my PhD degree in the
 
 Places where I am living and lived
 ======
-Generally, I lived in Suzhou for 22 years and then moved to Akron, where I obtained the degree of Master. In Summer of 2018, I start my PhD life in Darmstadt, Germany.
+I lived in Suzhou for 22 years and then moved to Akron, where I obtained my Master degree. In Summer of 2018, I started my PhD life in Darmstadt, Germany.
 
 [Suzhou](https://en.wikipedia.org/wiki/Suzhou)
 ------
