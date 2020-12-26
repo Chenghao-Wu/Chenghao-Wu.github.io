@@ -66,12 +66,21 @@ Research experience:
 
 ---
 
+Review Activity:
+------
+* [Macromolecules](https://pubs.acs.org/journal/mamobx), 2020 (1)
+
+
+---
+
 Talks and Posters:
 ------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Teaching:
 ------
   <ul>{% for post in site.teaching %}
