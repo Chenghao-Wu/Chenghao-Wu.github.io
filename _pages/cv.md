@@ -13,8 +13,8 @@ Education
 ======
 
 * Ph.D in Technische Universität Darmstadt, Germany, 2021 (expected)
-* M.S. in University of Akron, OH, 2016-2018
-* B.S. in Soochow University, PRC, 2013-2017
+* M.S. in University of Akron, United States, 2016-2018
+* B.S. in Soochow University, China, 2013-2017
   
 Research experience
 ======
