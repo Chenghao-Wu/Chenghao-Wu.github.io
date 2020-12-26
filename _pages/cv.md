@@ -35,6 +35,13 @@ Education:
   
 ---
 
+Publications:
+------
+* **Wu, Z**, Milano, G, and Müller‐Plathe, F. Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.
+* **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18. 
+
+---
+
 Research experience:
 ------
 * **2018-2020: Research Assistant**
@@ -56,13 +63,6 @@ Research experience:
 * **July-Aug, 2015: Internship**
   * **Location:** Bureau of Quality and Technical Supervision of Suzhou, China
   * **Duties included:** Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
-  
----
-
-Publications:
-------
-* **Wu, Z**, Milano, G, and Müller‐Plathe, F. Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.
-* **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18. 
 
 
 Talks:
