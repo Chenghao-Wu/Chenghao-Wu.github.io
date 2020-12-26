@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Chenghao Wu"
+name                     : &name "Chenghao Wu / 吴正浩"
 description              : &description "personal page"
 url                      : https://chenghao-wu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
