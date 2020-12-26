@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
+* Ph.D in Technische Universität Darmstadt, Germany, 2021 (expected)
+* M.S. in University of Akron, OH, 2016-2018
+* B.S. in Soochow University, PRC, 2013-2017
+  
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2018-2020: Research Assistant
+  * Technische Universität Darmstadt, Germnay
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Dr. Florian Müller-Plathe 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: Research Assistant
+  * Technische Universität Darmstadt, Germnay
+  * Project: Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
+    * Duties included: Investigate the effect of grafting on the dynamics at polymer/substrate interfaces
+    * Compute the glass transition temperature of polymers using novel algorithms
+    * Conduct data analysis with automated scripts based on Python
+  * Supervisor: Prof. Dr. David Simmons 
+
+* July-Aug, 2015: Internship
+  * Bureau of Quality and Technical Supervision of Suzhou, Jiangsu
+  * Duties included: Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer based foods, and compared results to China National Food Standards (GB)
   
 Skills
 ======
