@@ -12,7 +12,7 @@ My name is Chenghao Wu (吴正浩). I am currently pursuing my PhD degree in the
 
 Places where I am living and lived
 ======
-I was born in Suzhou, China, and lived there for 21 years. Then, I moved to Akron, OH, where I obtained my Master degree. In Summer of 2018, I started my PhD life in Darmstadt, Germany.
+I was born in Suzhou, China, and lived there for 21 years. Then, I moved to Akron, Ohio. After 2 years, I obtained my Master degree from the department of Polymer Engineering in University of Akron. In Summer of 2018, I started my PhD life in Darmstadt, Germany.
 
 Suzhou
 ------
