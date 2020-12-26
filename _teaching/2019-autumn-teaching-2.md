@@ -8,4 +8,4 @@ date: 2019-10-01
 location: "Darmstadt, Germany"
 ---
 
-Prepare exercises for every course; Organize Tutorial Seminars; Oral Examination.
+Prepare exercises for every course; Organize tutorial seminars; Oral examination.

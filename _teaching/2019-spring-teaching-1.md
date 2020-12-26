@@ -8,4 +8,4 @@ date: 2019-03-01
 location: "Darmstadt, Germany"
 ---
 
-Organize Tutorial Seminars; Supervise Examination.
+Organize tutorial seminars; Supervise examination.
