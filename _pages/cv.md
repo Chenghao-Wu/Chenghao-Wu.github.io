@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-<div align="center">Zhenghao Wu</div>
-======
+<div style="text-align: center;font-size:30px;">Zhenghao Wu</div>
+
 
 <div align="center">+49 152-3780-1179 |   Alarich-Weiss-Str. 8, Darmstadt 64287 | z.wu@theo.chemie.tu-darmstadt.de </div>
 
@@ -20,7 +20,7 @@ Education:
 ------
 
 * **Ph.D, Physical Chemistry, Technische Universität Darmstadt, Germany**
-  * **Date:** 2021 (expected)
+  * **Date:** Aug, 2021 (expected)
   * **Doctoral Thesis:** Improved Dynamics in Hybrid Particle-Field Simulations of Polymers
   * **Advisor:** Dr. Florian Müller-Plathe
 * **M.S., Polymer Engineering, University of Akron, United States**
