@@ -35,22 +35,12 @@ Education:
   
 ---
 
-Publications:
-------
-* **Wu, Z**, Milano, G, and Müller‐Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00954)
-* **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. [Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26428) 
-  
----
-
 Research Experience:
 ------
-* **2018-2020: Research Assistant**
+* **2018-2020: Teaching Assistant**
   * **Location:** Department of Chemistry, Technische Universität Darmstadt, Germnay
-  * **Project:** Improved Dynamics in Hybrid Particle-Field Simulations of Polymers
-    * Develop molecular dynamics simulation methods based on the hybrid particle-field model for efficient computation of polymer dynamics
-    * Develop coarse-grained models of polymers such as polystyrene and polyethylene melts
-    * Examine the scope of applications of the newly developed model, e.g. polymer nanocomposites
-  * **Supervisor:** Dr. Florian Müller-Plathe 
+  * **Course:** Physical Chemistry (I), (II), (III), and Solid State Physics
+  * **Duties included:** Prepare exercises; Organize tutorial seminars; Supervise examination.
 
 * **2016-2018: Research Assistant**
   * **Location:** Department of Polymer Engineering, University of Akron, USA
@@ -63,6 +53,25 @@ Research Experience:
 * **July-Aug, 2015: Internship**
   * **Location:** Bureau of Quality and Technical Supervision of Suzhou, China
   * **Duties included:** Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
+
+---
+
+Skills:
+------
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+---
+
+Publications:
+------
+* **Wu, Z**, Milano, G, and Müller‐Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00954)
+* **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. [Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26428) 
+  
 
 ---
 
@@ -81,24 +90,6 @@ Talks and Posters:
 
 ---
 
-Teaching:
-------
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
----
-
-Skills:
-------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
----
 
 Service and leadership:
 ------
