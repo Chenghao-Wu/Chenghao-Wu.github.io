@@ -21,16 +21,16 @@ Education:
 
 * **Ph.D, Physical Chemistry, Technische Universität Darmstadt, Germany**
   * **Date:** 2021 (expected)
-  * **Doctoral Thesis:** Improved dynamics in hybrid particle-field simulations of polymers
+  * **Doctoral Thesis:** Improved Dynamics in Hybrid Particle-Field Simulations of Polymers
   * **Advisor:** Dr. Florian Müller-Plathe
-* **M.S. in University of Akron, United States**
+* **M.S., Polymer Engineering, University of Akron, United States**
   * **Date:** May, 2018
   * **Master Thesis:** Investigating the Effects of Grafting and Chain Stiffness on Nanoconfined Polymers from Molecular Dynamics Simulation
   * **Advisor:** Dr. David Simmons
-* **B.S. in Soochow University, China**
+* **B.S., Chemical Engineering, Soochow University, China**
   * **Date:** July, 2017
-  * **Bachelor Thesis:** Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
-  * **Advisor:** Dr. Yong Wang
+  * **Bachelor Thesis:** Insights into Glass Formation Behavior of Brush Polymers from Molecular Dynamics Simulations
+  * **Advisor:** Dr. Yong Wang & Dr. David Simmons
   
 Research experience:
 ------
