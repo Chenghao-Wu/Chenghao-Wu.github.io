@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<div style="text-align: center;font-size:30px;">Zhenghao Wu</div>
+<div style="text-align: center;font-size:30px;"><b>Zhenghao Wu</b></div>
 
 
 <div align="center">+49 152-3780-1179 |   Alarich-Weiss-Str. 8, Darmstadt 64287 | z.wu@theo.chemie.tu-darmstadt.de </div>
