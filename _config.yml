@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Website of Chenghao Wu"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Chenghao Wu"
 description              : &description "personal page"
