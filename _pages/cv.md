@@ -15,6 +15,7 @@ redirect_from:
 
 <div align="center">+49 152-3780-1179 |   Alarich-Weiss-Str. 8, Darmstadt 64287 | z.wu@theo.chemie.tu-darmstadt.de </div>
 
+---
 
 Education:
 ------
@@ -32,6 +33,8 @@ Education:
   * **Bachelor Thesis:** Insights into Glass Formation Behavior of Brush Polymers from Molecular Dynamics Simulations
   * **Advisor:** Dr. Yong Wang & Dr. David Simmons
   
+---
+
 Research experience:
 ------
 * 2018-2020: Research Assistant
@@ -51,6 +54,7 @@ Research experience:
   * Bureau of Quality and Technical Supervision of Suzhou, Jiangsu
   * Duties included: Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
   
+---
 
 Publications:
 ------
