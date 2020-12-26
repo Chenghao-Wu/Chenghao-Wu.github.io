@@ -42,7 +42,7 @@ Publications:
   
 ---
 
-Research experience:
+Research Experience:
 ------
 * **2018-2020: Research Assistant**
   * **Location:** Department of Chemistry, Technische Universität Darmstadt, Germnay
