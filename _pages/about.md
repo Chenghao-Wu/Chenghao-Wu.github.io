@@ -11,9 +11,6 @@ redirect_from:
 
 <div style="text-align: center;font-size:30px;"><b>Zhenghao Wu</b></div>
 
-
-<div align="center">+49 152-3780-1179 |   Alarich-Weiss-Str. 8, Darmstadt 64287 | z.wu@theo.chemie.tu-darmstadt.de </div>
-
 ---
 
 Education:
@@ -34,44 +31,11 @@ Education:
   
 ---
 
-Experience:
-------
-* **2018-2020: Teaching Assistant**
-  * **Location:** Department of Chemistry, Technische Universität Darmstadt, Germnay
-  * **Courses:** Physical Chemistry (I), (II), (III), and Solid State Physics
-  * **Duties included:** Prepare exercises; Organize tutorial seminars; Supervise examinations.
-
-* **2016-2018: Research Assistant**
-  * **Location:** Department of Polymer Engineering, University of Akron, USA
-  * **Project:** Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
-    * Investigate the effect of grafting on the dynamics at polymer/substrate interfaces
-    * Compute the glass transition temperature of polymers using novel algorithms
-    * Conduct data analysis with automated scripts based on Python
-  * **Supervisor:** Dr. David Simmons 
-
-* **July-Aug, 2015: Internship**
-  * **Location:** Bureau of Quality and Technical Supervision of Suzhou, China
-  * **Duties included:** Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
-
----
-
-Skills:
-------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
----
-
 Publications:
 ------
 1. **Wu, Z**, Milano, G, and Müller‐Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00954)
 2. **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. [Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26428) 
   
-
 ---
 
 Review Activity:
@@ -88,8 +52,3 @@ Talks and Posters:
   {% endfor %}</ul>
 
 ---
-
-
-Service and leadership:
-------
-* Currently signed in to 43 different slack teams
