@@ -8,20 +8,88 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chenghao Wu (吴正浩). I am currently pursuing my PhD degree in the Mueller-Plathe group at TU-Darmstadt, Germany.
 
-Places where I am living and lived
-======
-I was born in Suzhou, China, and lived there for 21 years. Then, I moved to Akron, Ohio. After 2 years, I obtained my Master degree from the department of Polymer Engineering in University of Akron. In Summer of 2018, I started my PhD life in Darmstadt, Germany.
+<div style="text-align: center;font-size:30px;"><b>Zhenghao Wu</b></div>
 
-Suzhou
+
+<div align="center">+49 152-3780-1179 |   Alarich-Weiss-Str. 8, Darmstadt 64287 | z.wu@theo.chemie.tu-darmstadt.de </div>
+
+---
+
+Education:
 ------
-[Suzhou](https://en.wikipedia.org/wiki/Suzhou)
 
-Akron
-------
-[Akron](https://en.wikipedia.org/wiki/Akron,_Ohio)
+* **Ph.D, Physical Chemistry, Technische Universität Darmstadt, Germany**
+  * **Date:** Aug, 2021 (expected)
+  * **Doctoral Thesis:** Improved Dynamics in Hybrid Particle-Field Simulations of Polymers
+  * **Advisor:** Dr. Florian Müller-Plathe
+* **M.S., Polymer Engineering, University of Akron, United States**
+  * **Date:** May, 2018
+  * **Master Thesis:** Investigating the Effects of Grafting and Chain Stiffness on Nanoconfined Polymers from Molecular Dynamics Simulation
+  * **Advisor:** Dr. David Simmons
+* **B.S., Chemical Engineering, Soochow University, China**
+  * **Date:** July, 2017
+  * **Bachelor Thesis:** Insights into Glass Formation Behavior of Brush Polymers from Molecular Dynamics Simulations
+  * **Advisor:** Dr. Yong Wang & Dr. David Simmons
+  
+---
 
-Darmstadt
+Experience:
 ------
-[Darmstadt](https://en.wikipedia.org/wiki/Darmstadt)
+* **2018-2020: Teaching Assistant**
+  * **Location:** Department of Chemistry, Technische Universität Darmstadt, Germnay
+  * **Courses:** Physical Chemistry (I), (II), (III), and Solid State Physics
+  * **Duties included:** Prepare exercises; Organize tutorial seminars; Supervise examinations.
+
+* **2016-2018: Research Assistant**
+  * **Location:** Department of Polymer Engineering, University of Akron, USA
+  * **Project:** Insights into glass formation behavior of brush polymers from molecular dynamics (MD) simulations
+    * Investigate the effect of grafting on the dynamics at polymer/substrate interfaces
+    * Compute the glass transition temperature of polymers using novel algorithms
+    * Conduct data analysis with automated scripts based on Python
+  * **Supervisor:** Dr. David Simmons 
+
+* **July-Aug, 2015: Internship**
+  * **Location:** Bureau of Quality and Technical Supervision of Suzhou, China
+  * **Duties included:** Performed analyses to detect and quantify the amount of fat, sugar, protein and certain additives in consumer-based foods, and compared results to China National Food Standards (GB)
+
+---
+
+Skills:
+------
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+---
+
+Publications:
+------
+1. **Wu, Z**, Milano, G, and Müller‐Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00954)
+2. **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. [Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26428) 
+  
+
+---
+
+Review Activity:
+------
+* [Macromolecules](https://pubs.acs.org/journal/mamobx), 2020 (1)
+
+
+---
+
+Talks and Posters:
+------
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+---
+
+
+Service and leadership:
+------
+* Currently signed in to 43 different slack teams

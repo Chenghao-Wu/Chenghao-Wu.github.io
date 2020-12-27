@@ -39,8 +39,8 @@ Experience:
 ------
 * **2018-2020: Teaching Assistant**
   * **Location:** Department of Chemistry, Technische Universität Darmstadt, Germnay
-  * **Course:** Physical Chemistry (I), (II), (III), and Solid State Physics
-  * **Duties included:** Prepare exercises; Organize tutorial seminars; Supervise examination.
+  * **Courses:** Physical Chemistry (I), (II), (III), and Solid State Physics
+  * **Duties included:** Prepare exercises; Organize tutorial seminars; Supervise examinations.
 
 * **2016-2018: Research Assistant**
   * **Location:** Department of Polymer Engineering, University of Akron, USA
