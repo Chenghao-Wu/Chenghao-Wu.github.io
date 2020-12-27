@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 
-<div style="text-align: left;font-size:30px;"><b>Zhenghao Wu</b></div>
-
----
-
 Education:
 ------
 
