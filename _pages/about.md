@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/IMG_0297.png" alt="drawing" style="width:200px;"/>
-
 Education:
 ------
 
