@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="text-align: center;font-size:30px;"><b>Zhenghao Wu</b></div>
+<div style="text-align: left;font-size:30px;"><b>Zhenghao Wu</b></div>
 
 ---
 
@@ -50,5 +50,3 @@ Talks and Posters:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
----
