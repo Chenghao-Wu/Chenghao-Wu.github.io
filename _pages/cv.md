@@ -21,15 +21,15 @@ Education:
 ------
 
 * **Ph.D, Physical Chemistry, Technische Universität Darmstadt, Germany**
-  * **Date:** Aug, 2021 (expected)
+  * **Time:** *2018 - Aug, 2021 (expected)*
   * **Doctoral Thesis:** Improved Dynamics in Hybrid Particle-Field Simulations of Polymers
   * **Advisor:** Dr. Florian Müller-Plathe
 * **M.S., Polymer Engineering, University of Akron, United States**
-  * **Date:** May, 2018
+  * **Time:** *2016 - 2018*
   * **Master Thesis:** Investigating the Effects of Grafting and Chain Stiffness on Nanoconfined Polymers from Molecular Dynamics Simulation
   * **Advisor:** Dr. David Simmons
 * **B.S., Chemical Engineering, Soochow University, China**
-  * **Date:** July, 2017
+  * **Time:** *2013 - 2016*
   * **Bachelor Thesis:** Insights into Glass Formation Behavior of Brush Polymers from Molecular Dynamics Simulations
   * **Advisor:** Dr. Yong Wang & Dr. David Simmons
   
@@ -37,7 +37,7 @@ Education:
 
 Experience:
 ------
-* **2018-2020: Teaching Assistant**
+* **2018-2021: Teaching Assistant**
   * **Location:** Department of Chemistry, Technische Universität Darmstadt, Germnay
   * **Courses:** Physical Chemistry (I), (II), (III), and Solid State Physics
   * **Duties included:** Prepare exercises; Organize tutorial seminars; Supervise examinations.
@@ -58,19 +58,22 @@ Experience:
 
 Skills:
 ------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Polymer physics; simulation of the glass transition; soft materials and complex fluids.
+* Python SciPy package; Bash; C++; Scilab; Microsoft Excel; Data analysis, Machine
+learning tools.
+* Linux, Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) and
+high performance computing (HPC) clusters.
+
 
 ---
 
 Publications:
 ------
-1. **Wu, Z**, Milano, G, and Müller‐Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. In publication.](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00954)
-2. **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. [Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26428) 
+1. Zhou, T$^*$; **Wu, Z$^*$**; Chilukoti, H; Müller-Plathe, F. Sequence-Engineering Polyethylene-Polypropylene Copolymers with High Thermal Conductivity Using a Molecular-Dynamics-Based Genetic Algorithm. Submitted (These authors$^*$ contributed equally).
+2. Zhou, T; Chilukoti, H; **Wu, Z**; Müller-Plathe, F. Effect of Defects on the Interfacial Thermal Conductance between n-Heneicosane in Solid and Liquid Phases and a Graphene Monolayer. Submitted.
+3. **Wu, Z$^*$**; Alberti, S$^*$; Schneider, J;  Müller-Plathe, F. Knotting Behaviour of Polymer Chains in the Melt State for Soft-Core Models with and without Slip-Springs. Submitted (These authors$^*$ contributed equally).
+4. **Wu, Z.**; Milano, G.; Müller-Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. 2021, 17, 1, 474–487. ](https://doi.org/10.1021/acs.jctc.0c00954)
+5. **Wu, Z**, Kalogirou, A, De Nicola, A, Milano, G, Müller‐Plathe, F. [Atomistic hybrid particle‐field molecular dynamics combined with slip‐springs: Restoring entangled dynamics to simulations of polymer melts. J. Comput. Chem. 2021; 42: 6– 18.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26428) 
 
 ---
 
@@ -85,4 +88,10 @@ Talks and Posters:
 
 Service and leadership:
 ------
-* Currently signed in to 43 different slack teams
+* **National Academic Conference for Polymers**
+  * *Oct. 2015*, Suzhou, China
+  * **Volunteer**: Organized information of academic papers and reports and guided the attendees
+* **Student Association of Science and Technology**
+  * *2014 - 2015*, Suzhou, China
+  * **Director**: Participated in planning content and organizing student activities related to science
+and technology
