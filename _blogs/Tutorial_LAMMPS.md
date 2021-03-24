@@ -2,6 +2,7 @@
 title: "LAMMPS Tutorial 1"
 excerpt: ""
 collection: blogs
+date: 2019-06-25
 ---
 
 # LAMMPS

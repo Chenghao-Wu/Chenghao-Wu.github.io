@@ -2,6 +2,7 @@
 title: "Linux Tutorial"
 excerpt: ""
 collection: blogs
+date: 2019-06-25
 ---
 
 # Unix Tutorial
