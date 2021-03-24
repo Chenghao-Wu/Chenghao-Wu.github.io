@@ -1,11 +1,8 @@
 ---
 title: "First Simulation"
+excerpt: ""
 collection: blogs
-type: "Blogs"
-permalink: /blogs/First_Simulation
-venue: "Technische Universität Darmstadt, Chemistry Department"
-date: 2019-10-01
-location: "Darmstadt, Germany"
+date: 2019-06-25
 ---
 
 # First Simulation of Kremer-Grest Polymer in LAMMPS
