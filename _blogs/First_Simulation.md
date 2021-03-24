@@ -67,7 +67,7 @@ This step takes the trajectory files generated at production and run different a
 * Polymer Model
 	* [Kremer-Grest bead-spring model](https://aip.scitation.org/doi/10.1063/1.458541)
 	* bonded potential: finitely extensible nonlinear elastic(FENE)
-$$ E_{FENE}=-k(\frac{R_0^2}{2})\,ln(1-(\frac{r}{R}^2))+4\epsilon[(\frac{\sigma}{r})^{12}-(\frac{\sigma}{r})^6] +\epsilon\,\,\,\,\,\,\,\,\,\,\,\, k=30, R_0=1.5, \sigma=1.0,\epsilon=1.0 $$
+	$$ E_{FENE}=-k(\frac{R_0^2}{2})\,ln(1-(\frac{r}{R}^2))+4\epsilon[(\frac{\sigma}{r})^{12}-(\frac{\sigma}{r})^6] +\epsilon\,\,\,\,\,\,\,\,\,\,\,\, k=30, R_0=1.5, \sigma=1.0,\epsilon=1.0 $$
 	* pair potential: 12-6 Lennard-Jones(LJ)
 $$ E_{LJ}= 4\epsilon[(\frac{\sigma}{r})^{12}-(\frac{\sigma}{r})^6 ] \,\,\,\,\,\,\,\,\,\,\,\,\sigma=1.0,\epsilon=1.0,r_{cut}=2.5\sigma$$
 * LAMMPS input file:
@@ -87,6 +87,6 @@ $$ E_{LJ}= 4\epsilon[(\frac{\sigma}{r})^{12}-(\frac{\sigma}{r})^6 ] \,\,\,\,\,\,
 		1. radius gyration
 		2. end-to-end distance
 		3. mean-square internal distance
-		3. mean-square displacements
+		4. mean-square displacements
 			* for chain inner beads, end beads and all chain beads
 		4. end-end vector autocorrelation function 
