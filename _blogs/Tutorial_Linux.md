@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 3"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: blogs
+---
+
 # Unix Tutorial
 ## Introduction
 * UNIX is an operating system which was first developed in the 1960s, and has been under constant development ever since. By operating system, we mean that the suite of programs which make the computer work. It is a stable, multi-user, multi-tasking system for servers, desktops and laptops.
