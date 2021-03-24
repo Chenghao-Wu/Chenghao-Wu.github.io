@@ -2,7 +2,7 @@
 title: "First Simulation"
 collection: blogs
 type: "Blogs"
-permalink: /blogs/First_Simulation
+#permalink: /blogs/First_Simulation
 venue: "Technische Universität Darmstadt, Chemistry Department"
 date: 2019-10-01
 location: "Darmstadt, Germany"
