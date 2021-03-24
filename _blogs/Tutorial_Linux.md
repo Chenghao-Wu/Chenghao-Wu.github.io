@@ -1,8 +1,11 @@
 ---
 title: "Linux Tutorial"
-excerpt: ""
+type: "Blogs"
 collection: blogs
+permalink: /blogs/Tutorial_Linux
 date: 2019-06-25
+venue: "Technische Universität Darmstadt, Chemistry Department"
+location: "Darmstadt, Germany"
 ---
 
 # Unix Tutorial

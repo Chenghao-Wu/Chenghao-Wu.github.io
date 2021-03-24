@@ -1,8 +1,11 @@
 ---
-title: "LAMMPS Tutorial 1"
-excerpt: ""
+title: "LAMMPS Tutorial"
+type: "Blogs"
 collection: blogs
+permalink: /blogs/Tutorial_LAMMPS
 date: 2019-06-25
+venue: "Technische Universität Darmstadt, Chemistry Department"
+location: "Darmstadt, Germany"
 ---
 
 # LAMMPS
