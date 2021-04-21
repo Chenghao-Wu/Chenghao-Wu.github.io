@@ -69,7 +69,7 @@ high performance computing (HPC) clusters.
 
 Publications:
 ------
-1. Zhou, T$^*$; **Wu, Z$^*$**; Chilukoti, H; Müller-Plathe, F. Sequence-Engineering Polyethylene-Polypropylene Copolymers with High Thermal Conductivity Using a Molecular-Dynamics-Based Genetic Algorithm. Submitted (These authors$^*$ contributed equally).
+1. Zhou, T$^*$; **Wu, Z$^*$**; Chilukoti, H; Müller-Plathe, F. Sequence-Engineering Polyethylene-Polypropylene Copolymers with High Thermal Conductivity Using a Molecular-Dynamics-Based Genetic Algorithm. Accepted (These authors$^*$ contributed equally).
 2. Zhou, T; Chilukoti, H; **Wu, Z**; Müller-Plathe, F. Effect of Defects on the Interfacial Thermal Conductance between n-Heneicosane in Solid and Liquid Phases and a Graphene Monolayer. Submitted.
 3. **Wu, Z$^*$**; Alberti, S$^*$; Schneider, J;  Müller-Plathe, F. Knotting Behaviour of Polymer Chains in the Melt State for Soft-Core Models with and without Slip-Springs. Submitted (These authors$^*$ contributed equally).
 4. **Wu, Z.**; Milano, G.; Müller-Plathe, F. [Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts. J. Chem. Theory Comput. 2021, 17, 1, 474–487. ](https://doi.org/10.1021/acs.jctc.0c00954)
