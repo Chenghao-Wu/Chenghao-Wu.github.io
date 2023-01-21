@@ -8,6 +8,7 @@ authors: "Xiang Fu, <strong>Zhenghao Wu</strong>, Wujie Wang, Tian Xie, Sinan Ke
 #subtitle: "CCD 2017"
 venue: "Submitted"
 arxiv: https://arxiv.org/abs/2210.07237
+code: https://github.com/kyonofx/MDsim
 ---
 
 We benchmark a collection of state-of-the-art (SOTA) machine learning force-field models and illustrate, in particular, how the commonly benchmarked force accuracy is not well aligned with relevant simulation metrics. We demonstrate when and how selected SOTA methods fail, along with offering directions for further improvement.
