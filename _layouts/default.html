@@ -69,9 +69,8 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%m" }}
+              <em>{{post.venue}}, {{ post.date | date: "%Y-%m" }}</em>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">link</a>
