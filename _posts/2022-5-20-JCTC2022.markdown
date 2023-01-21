@@ -2,7 +2,7 @@
 layout: post
 title:  "Slip-Spring Hybrid Particle-Field Molecular Dynamics for Coarse-Graining Branched Polymer Melts: Polystyrene Melts as an Example"
 date:   2022-05-26 00:00:00 +00:00
-image:  images/2022-05-26-JCTC2022.png
+image:  images/2022-5-20-JCTC2022.png
 categories: research
 authors: "<strong>Zhenghao Wu</strong>, Florian Müller-Plathe"
 #subtitle: "CCD 2017"
