@@ -73,7 +73,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y%M" }}
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%m" }}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
