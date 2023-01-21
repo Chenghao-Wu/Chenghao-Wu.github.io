@@ -2,7 +2,7 @@
 layout: post
 title:  "Forces are not enough: Benchmark and critical evaluation for machine learning force fields with molecular simulations"
 date:   2022-10-13 00:00:00 +00:00
-image:  images/2022-10-13-TMLR2023.pdf
+image:  images/2022-10-13-TMLR2023.png
 categories: research
 authors: "Xiang Fu, <strong>Zhenghao Wu</strong>, Wujie Wang, Tian Xie, Sinan Keten, Rafael Gomez-Bombarelli, Tommi Jaakkola"
 #subtitle: "CCD 2017"
