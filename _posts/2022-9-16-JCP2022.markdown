@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning pair potentials using differentiable simulations"
 date:   2022-09-16 00:00:00 +00:00
-image:  images/2022-9-16-JCP2023.png
+image:  images/2022-9-16-JCP2022.png
 categories: research
 authors: "Wujie Wang, <strong>Zhenghao Wu</strong>, Johannes Carl Bertold Dietschreit, Rafael Gomez-Bombarelli"
 #subtitle: "CCD 2017"
