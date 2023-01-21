@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Forces are not enough: Benchmark and critical evaluation for machine learning force fields with molecular simulations"
+date:   2022-10-13 00:00:00 +00:00
+image: /images/ccd2017.png
+categories: research
+authors: "Xiang Fu, <strong>Zhenghao Wu</strong>, Wujie Wang, Tian Xie, Sinan Keten, Rafael Gomez-Bombarelli, Tommi Jaakkola"
+subtitle: "CCD 2017"
+venue: "CVPR Workshops (Computational Cameras and Displays)"
+arxiv: https://arxiv.org/abs/1705.05548
+---
+
+We benchmark a collection of state-of-the-art (SOTA) ML FF models and illustrate, in particular, how the commonly benchmarked force accuracy is not well aligned with relevant simulation metrics. We demonstrate when and how selected SOTA methods fail, along with offering directions for further improvement.
