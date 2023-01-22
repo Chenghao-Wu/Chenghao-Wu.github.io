@@ -6,7 +6,7 @@ image:  images/2022-9-16-JCP2022.png
 categories: research
 authors: "Wujie Wang, <strong>Zhenghao Wu</strong>, Johannes Carl Bertold Dietschreit, Rafael Gomez-Bombarelli"
 #subtitle: "CCD 2017"
-venue: "Journal of Chemicl Physics"
+venue: "Journal of Chemical Physics"
 arxiv: https://arxiv.org/abs/2209.07679
 code: https://github.com/torchmd/mdgrad
 ---
