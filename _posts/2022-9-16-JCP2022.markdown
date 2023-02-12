@@ -10,5 +10,3 @@ venue: "Journal of Chemical Physics"
 arxiv: https://arxiv.org/abs/2209.07679
 code: https://github.com/torchmd/mdgrad
 ---
-
-We propose a general stochastic method for learning pair interactions from data using differentiable simulations (DiffSim). DiffSim defines a loss function based on structural observables, such as the radial distribution function, through molecular dynamics (MD) simulations.
