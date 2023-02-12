@@ -204,11 +204,13 @@ span.highlight {
 .title, .title:visited {
   display: block;
   font-style: italic;
+  margin-bottom: 16px;
 }
 
 .authors, .authors:visited {
   display: block;
   font-size: 0.9rem;
+  margin-bottom: 16px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
