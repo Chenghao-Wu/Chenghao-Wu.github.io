@@ -187,6 +187,17 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+.journal-info {
+  color: #828282;
+  font-size: 0.9rem;
+}
+
+.year {
+  float: right;
+  color: #828282;
+  font-size: 0.9rem;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";
