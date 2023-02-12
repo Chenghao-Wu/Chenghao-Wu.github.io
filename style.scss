@@ -187,12 +187,12 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-.journal-info {
+.journal-info, .journal-info:visited {
   color: #918e8e;
   font-size: 0.9rem;
 }
 
-.year {
+.year, .year:visited {
   float: right;
   color: #918e8e;
   font-size: 0.9rem;
