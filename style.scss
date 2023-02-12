@@ -108,13 +108,12 @@ h1 {
   border-bottom: 1px solid #e8e8e8;
   min-height: 16px;
   position: relative;
-  
 }
 
 .site-title {
   font-size: 26px;
   font-weight: 300;
-  margin: 12px 0;
+  margin: 10px 0;
   display: inline-block;
   left: 20px;
 }
@@ -123,16 +122,6 @@ h1 {
   color: #524f4f;
 }
 
-.navigation-wrapper.has-logo .navigation-links {
-  width: 10%;
-  float: left;
-}
-
-@media screen and (max-width: 600px) {
-  .navigation-wrapper.has-logo .navigation-links {
-    width: 100%;
-  }
-}
 
 span.highlight {
   background-color: #ffffd0;
