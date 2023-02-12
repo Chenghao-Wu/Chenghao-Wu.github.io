@@ -217,6 +217,7 @@ ul.publications li {
 ul.publications .title {
   display: block;
   font-style: italic;
+  font-size: 1.0rem;
 }
 
 ul.publications .authors {
@@ -240,12 +241,6 @@ ul.publications .links {
   font-size: 0.9rem;
 }
 
-ul.publications .oral {
-  /* color: red; */
-  font-style: normal;
-  font-weight: bold;
-  font-size: 0.8rem;
-}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
