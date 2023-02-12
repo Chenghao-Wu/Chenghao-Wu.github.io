@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Combination of Hybrid Particle-Field Molecular Dynamics and Slip-Springs for the Efficient Simulation of Coarse-Grained Polymer Models: Static and Dynamic Properties of Polystyrene Melts"
+date:   2020-12-04 00:00:00 +00:00
+image:  images/2020-12-04-JCTC2020.png
+categories: research
+authors: "<strong>Zhenghao Wu</strong>, Giuseppe Milano, Florian Müller-Plathe*"
+#subtitle: "CCD 2017"
+venue: "Journal of Chemical Theory and Computation"
+arxiv: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00954
+---
