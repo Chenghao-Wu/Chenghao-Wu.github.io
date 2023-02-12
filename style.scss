@@ -202,10 +202,12 @@ span.highlight {
 }
 
 .title, .title:visited {
+  display: block;
   font-style: italic;
 }
 
 .authors, .authors:visited {
+  display: block;
   font-size: 0.9rem;
 }
 
