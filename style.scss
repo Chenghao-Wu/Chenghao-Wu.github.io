@@ -108,7 +108,7 @@ h1 {
   border-bottom: 1px solid #e8e8e8;
   min-height: 16px;
   position: relative;
-  left: 20px;
+  
 }
 
 .site-title {
@@ -116,6 +116,7 @@ h1 {
   font-weight: 300;
   margin: 12px 0;
   display: inline-block;
+  left: 20px;
 }
 
 .site-title, .site-title:visited {
