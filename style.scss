@@ -193,7 +193,6 @@ span.highlight {
 
 .journal-info, .journal-info:visited {
   color: #797777;
-  
 }
 
 .year, .year:visited {
@@ -202,12 +201,12 @@ span.highlight {
   font-size: 0.9rem;
 }
 
-.title {
+.title, .title:visited {
   display: block;
   font-style: italic;
 }
 
-.authors {
+.authors, .authors:visited {
   display: block;
   font-size: 0.9rem;
 }
