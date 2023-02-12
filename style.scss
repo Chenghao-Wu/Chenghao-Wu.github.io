@@ -106,7 +106,7 @@ h1 {
  .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
+  min-height: 16px;
   position: relative;
 }
 
@@ -129,25 +129,6 @@ h1 {
 @media screen and (max-width: 600px) {
   .navigation-wrapper.has-logo .navigation-links {
     width: 100%;
-  }
-}
-
-.navigation-wrapper.has-logo .navigation-logo {
-  width: 30%;
-  float: left;
-  padding: 12px;
-  box-sizing: border-box;
-  text-align: right;
-  height: 95px;
-}
-
-.navigation-wrapper.has-logo .navigation-logo img {
-  max-height: 100%;
-}
-
-@media screen and (max-width: 600px) {
-  .navigation-wrapper.has-logo .navigation-logo {
-    display: none;
   }
 }
 
