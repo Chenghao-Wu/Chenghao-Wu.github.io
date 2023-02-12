@@ -202,6 +202,16 @@ span.highlight {
   font-size: 0.9rem;
 }
 
+.title {
+  display: block;
+  font-style: italic;
+}
+
+.authors {
+  display: block;
+  font-size: 0.9rem;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";
