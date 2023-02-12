@@ -187,37 +187,64 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-.journal-info {
-  font-size: 0.9rem;
-  
+ul {
+  margin: 0;
+  padding: 0;
 }
 
-.journal-info, .journal-info:visited {
-  color: #797777;
+ul.highlight {
+  margin-bottom: 12px;
 }
 
-.year, .year:visited {
-  float: right;
-  color: #797777;
-  font-size: 0.9rem;
+ul {
+  margin-left: 24px;
 }
 
-.title, .title:visited {
+li>ul,
+li>ol {
+  margin-bottom: 0;
+}
+
+ul.publications {
+  list-style: none;
+  margin: 0;
+}
+
+ul.publications li {
+  margin-bottom: 16px;
+}
+
+ul.publications .title {
   display: block;
   font-style: italic;
-  
 }
 
-.authors, .authors:visited {
+ul.publications .authors {
   display: block;
   font-size: 0.9rem;
-  
 }
 
-.links, .links:visited {
+ul.publications .journal-info {
+  color: #828282;
+  font-size: 0.9rem;
+}
+
+ul.publications .year {
+  float: right;
+  color: #828282;
+  font-size: 0.9rem;
+}
+
+ul.publications .links {
   display: block;
   font-size: 0.9rem;
-  
+}
+
+ul.publications .oral {
+  /* color: red; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.8rem;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

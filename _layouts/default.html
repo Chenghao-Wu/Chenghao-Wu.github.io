@@ -81,30 +81,31 @@
             <td style="padding:2.5%;width:30%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
+
             <td style="padding:2.5%;width:70%;vertical-align:middle">
-              <span class="title">{{post.title}}</span>
-              
-              <span class="authors">{{post.authors}}</span>
-              
-              <span class="journal-info">{{post.venue}}</span>
-              <span class="year">{{ post.date | date: "%Y-%m" }}</span>
-              <span class="links">
-              {% if post.arxiv %}
-              <a href="{{post.arxiv}}">link</a>
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}"> / video</a>
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}"> / code</a>
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}"> / poster</a>
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}"> / slides</a>
-              {% endif %}
-              </span>
+              <ul class="publications">
+                <span class="title">{{post.title}}</span>
+                <span class="authors">{{post.authors}}</span>
+                <span class="journal-info">{{post.venue}}</span>
+                <span class="year">{{ post.date | date: "%Y-%m" }}</span>
+                <span class="links">
+                {% if post.arxiv %}
+                <a href="{{post.arxiv}}">link</a>
+                {% endif %}
+                {% if post.video %}
+                <a href="{{post.video}}"> / video</a>
+                {% endif %}
+                {% if post.code %}
+                <a href="{{post.code}}"> / code</a>
+                {% endif %}
+                {% if post.poster %}
+                <a href="{{post.poster}}"> / poster</a>
+                {% endif %}
+                {% if post.slides %}
+                <a href="{{post.slides}}"> / slides</a>
+                {% endif %}
+                </span>
+              </ul>
               <p></p>
               {{ post.excerpt }}
             </td>
