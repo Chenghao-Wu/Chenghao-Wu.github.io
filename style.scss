@@ -122,6 +122,36 @@ h1 {
   color: #524f4f;
 }
 
+.navigation-wrapper.has-logo .navigation-links {
+  width: 70%;
+  float: left;
+}
+
+@media screen and (max-width: 600px) {
+  .navigation-wrapper.has-logo .navigation-links {
+    width: 100%;
+  }
+}
+
+.navigation-wrapper.has-logo .navigation-logo {
+  width: 30%;
+  float: left;
+  padding: 12px;
+  box-sizing: border-box;
+  text-align: right;
+  height: 95px;
+}
+
+.navigation-wrapper.has-logo .navigation-logo img {
+  max-height: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .navigation-wrapper.has-logo .navigation-logo {
+    display: none;
+  }
+}
+
 span.highlight {
   background-color: #ffffd0;
 }
