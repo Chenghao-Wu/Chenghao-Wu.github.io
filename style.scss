@@ -189,7 +189,7 @@ span.highlight {
 
 .journal-info {
   font-size: 0.9rem;
-  margin: 12px 0;
+  margin: 15px 0;
 }
 
 .journal-info, .journal-info:visited {
@@ -205,14 +205,19 @@ span.highlight {
 .title, .title:visited {
   display: block;
   font-style: italic;
-  margin: 12px 0;
+  margin: 15px 0;
 }
 
 .authors, .authors:visited {
   display: block;
   font-size: 0.9rem;
-  margin: 12px 0;
-  
+  margin: 15px 0;
+}
+
+.links, .links:visited {
+  display: block;
+  font-size: 0.9rem;
+  margin: 15px 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
