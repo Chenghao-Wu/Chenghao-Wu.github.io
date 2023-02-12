@@ -4,7 +4,7 @@ title:  "Learning pair potentials using differentiable simulations"
 date:   2022-09-16 00:00:00 +00:00
 image:  images/2022-9-16-JCP2022.png
 categories: research
-authors: "Wujie Wang, <strong>Zhenghao Wu</strong>, Johannes Dietschreit, Rafael Gomez-Bombarelli"
+authors: "Wujie Wang\u2020, <strong>Zhenghao Wu</strong>\u2020, Johannes Dietschreit, Rafael Gomez-Bombarelli*"
 #subtitle: "CCD 2017"
 venue: "Journal of Chemical Physics"
 arxiv: https://arxiv.org/abs/2209.07679

@@ -4,7 +4,7 @@ title:  "Slip-Spring Hybrid Particle-Field Molecular Dynamics for Coarse-Grainin
 date:   2022-05-26 00:00:00 +00:00
 image:  images/2022-5-20-JCTC2022.png
 categories: research
-authors: "<strong>Zhenghao Wu</strong>, Florian Müller-Plathe"
+authors: "<strong>Zhenghao Wu</strong>, Florian Müller-Plathe*"
 #subtitle: "CCD 2017"
 venue: "Journal of Chemical Theory and Computation"
 arxiv: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00107
