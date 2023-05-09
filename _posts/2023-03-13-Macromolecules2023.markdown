@@ -6,7 +6,7 @@ image:  images/2023-03-13-Macro2023.png
 categories: research
 authors: "<strong>Zhenghao Wu</strong>, Subhadeep Pal, Sinan Keten"
 #subtitle: "CCD 2017"
-venue: "Macromolecules (accepted)"
-arxiv: https://doi.org/10.48550/arXiv.2303.05363
+venue: "Macromolecules"
+arxiv: https://pubs.acs.org/doi/full/10.1021/acs.macromol.2c02272
 code: Available soon
 ---
