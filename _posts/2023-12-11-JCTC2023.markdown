@@ -7,6 +7,6 @@ image:  images/2023-12-11-JCTC2023.png
 categories: research
 authors: "<strong>Zhenghao Wu*</strong>, Tianhang Zhou"
 #subtitle: "CCD 2017"
-venue: "ChemRxiv"
+venue: "Journal of Chemical Theory and Computation"
 arxiv: https://chemrxiv.org/engage/chemrxiv/article-details/65782db2fd283d7904d288ba
 ---
