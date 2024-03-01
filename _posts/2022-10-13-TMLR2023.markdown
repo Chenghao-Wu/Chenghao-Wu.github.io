@@ -6,7 +6,7 @@ image:  images/2022-10-13-TMLR2023.png
 categories: research
 authors: "Xiang Fu*, <strong>Zhenghao Wu</strong>, Wujie Wang, Tian Xie, Sinan Keten, Rafael Gomez-Bombarelli, Tommi Jaakkola"
 #subtitle: "CCD 2017"
-venue: "Submitted"
+venue: "Transaction of Machine Learning Research"
 arxiv: https://arxiv.org/abs/2210.07237
 code: https://github.com/kyonofx/MDsim
 ---
